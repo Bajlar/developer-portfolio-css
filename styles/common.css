@@ -1,0 +1,10 @@
+.header {
+  background-image: none;
+}
+
+.about,
+.what-i-do,
+.my-resume,
+.contact {
+  margin-top: 2.25rem;
+}
